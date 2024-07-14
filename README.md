@@ -9,14 +9,23 @@ fuel 共学
 2. 如何使用github
 
 ## 共学模块
+## 第一讲
+介绍roll up ，数据可用性，fuel 环境安装，forc 工具链介绍
 
-### 模块一
-介绍Fuel及模块化区块链、UTXO等基础知识。
+## 第二讲
+fuel vm ，utxo模型，fuel抽象账户，predicats
 
-### 模块二
-### 模块三
-### 模块四
+## 第三讲
+sway基础语法 ，sway by example 熟悉语法
 
+## 第四讲
+sway application ，熟悉应用 
+
+## 第五讲
+Fuel indexer  Fuel Typescripts SDK
+
+## 第六讲
+搭建dapp 完整tutorial
 
 ## 参考资料
 
