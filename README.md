@@ -1,5 +1,5 @@
 # Fuel-co-learn
-
+![Fuel-co-learn-image](./image/Fuel-co-learn.jpg)
 我们将在 8 周的时间里，以案例开展 Fuel 初阶课程，包括并行交易设计、FuelVM、Sway 基础语法以及 Forc 工具链等内容。
 
 前 6 周为共学时间，文档教程、课程视频和配套代码内容会定期开放，大家根据自身情况自由安排时间学习，每周一次 Office Hour 答疑，充分交流。
