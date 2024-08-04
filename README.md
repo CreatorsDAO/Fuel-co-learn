@@ -17,7 +17,7 @@ Maintainer 带领梳理技术要点、代码实操，解答学习中的问题，
 ### 第一讲：Layer 2 入门
 介绍 Rollup、数据可用性、Fuel 环境安装、Forc 工具链
 
-视频 | 代码 （待上传）
+[视频](https://youtu.be/s4D-ywBDBgE)
 
 ### 第二讲：Fuel 概论
 FuelVM、UTXO 模型、Fuel 抽象账户、Predicates
