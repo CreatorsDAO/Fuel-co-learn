@@ -22,7 +22,7 @@ Maintainer 带领梳理技术要点、代码实操，解答学习中的问题，
 ### 第二讲：Fuel 概论
 FuelVM、UTXO 模型、Fuel 抽象账户、Predicates
 
-视频 | 代码 （待上传）
+[视频](https://youtu.be/C-G27ouleaA)
 
 ### 第三讲：Sway 语法
 Sway基础语法、Sway by Example 熟悉语法
