@@ -27,7 +27,7 @@ FuelVM、UTXO 模型、Fuel 抽象账户、Predicates
 ### 第三讲：Sway 语法
 Sway基础语法、Sway by Example 熟悉语法
 
-视频 | 代码 （待上传）
+[视频](https://youtu.be/Wl9SnVD0u5I)
 
 ### 第四讲：Sway 例子
 Sway Application  熟悉应用
