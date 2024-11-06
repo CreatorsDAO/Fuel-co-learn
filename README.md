@@ -32,21 +32,21 @@ Sway基础语法、Sway by Example 熟悉语法
 ### 第四讲：Sway 例子
 Sway Application  熟悉应用
 
-视频 | 代码 （待上传）
+[视频](https://youtu.be/EFh1-CLbfsI?si=04s0Nt8grzHiEkxo)
 
 ### 第五讲：前端交互
 Fuel Indexer、Fuel Typescript SDK
 
-视频 | 代码 （待上传）
+[视频](https://youtu.be/UWjVCbQH5rI?si=dhFd6lgOcsNt1gfk)
 
 ### 第六讲：实战案例分享
 搭建 DApp、完整 Tutorial
 
-视频 | 代码 （待上传）
+[视频](https://youtu.be/NYeLe1xczdg?si=SzMH0T2OYd_6_gCv)
 
 
 ### Demo Day
-视频 | 项目链接（待上传）
+
 
 ### 参考资料
 
