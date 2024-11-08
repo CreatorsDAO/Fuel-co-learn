@@ -46,7 +46,21 @@ Fuel Indexer、Fuel Typescript SDK
 
 
 ### Demo Day
+## Fuel Stream @星Sir
+在 Fuel 上实现的一个基于时间释放 Token 的流支付合约
+[视频](https://youtu.be/DTIsfdN8SbY?si=RZxUPpvEXGTSmbQk)
 
+## Fuel 314 @燕石博物志
+一种部署在 Fuel 链上无需经过 DEX 即可直接进行买卖交易的代币标准
+[视频](https://youtu.be/-vHAiGQwUMQ?si=O1BZx8TSikULS_qf)
+
+## Mini Swap @Ethan
+Fuel 上的聚合 Swap
+[视频](https://youtu.be/FrmpNbBb1cs?si=xixOqHLcUQKFYXI4)
+
+## Amphitheatre for Fuel @国子
+为 Fuel 提供云开发环境解决方案，轻松构建 Fuel 环境
+[视频](https://youtu.be/k7Sq8tzocRE?si=JutSfV6D3HGYKG0_)
 
 ### 参考资料
 
